@@ -1,0 +1,20 @@
+button
+{
+    border:none;
+    background:none;
+}
+
+.toolbar
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+#editor
+{
+    margin: 20px auto;
+    max-width: 800px;
+    height: 200px;
+    border: 1px solid #000000; 
+}
